@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <title>Landing Page</title>
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+	<div>
+	 <nav class="navbar navbar-inverse">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="index.html">The Interesting Designs of the Shin Megami Tensei Series</a>
+			</div>
+			<div class="collapse navbar-collapse" id="myNavbar">
+			 <ul class="nav navbar-nav">
+				<li class="active"><a href="#">Home</a></li>
+				<li class="dropdown">
+					<a class="dropdown-toggle" data-toggle="dropdown" href="#">The Myths
+					<span class="caret"></span></a>
+					<ul class="dropdown-menu">
+						 <li><a href="#">Eastern Myths</a></li>
+						 <li><a href="#">Western Myths</a></li>
+					</ul>
+				</li>
+				<li><a href="#">See Alternate Design</a></li>
+			 </ul>
+			</div>
+		</div>
+	 </nav>
+	</div>
+
+</head>
+
+
+<body>
+
+	<div>
+	 <section>
+      <p> 
+	  The Shin Megami Tensei games are a series of RPGs I will forever hold close to my heart. 
+	  Featuring figures from myths and legends across the globe, 
+	  they combine my love of video games and mythology in just the right way. <br>
+	  <br>
+	  On this website I'd normally take the time to go over a few of the designs seen throughout the series 
+	  compared with a more classical depiction of the same figure. With one page featuring designs 
+	  based on Eastern myths and legends, and the other will show designs based on Western myths and legends. 
+	  <br>
+	  <br>
+	  However, the website is currently under renovations as it were, so the links to the other pages aren't currently working. 
+	  Nor are the other pages available. To account for this, this page will talk about a few myths from both the East and the West, 
+	  and show a design from one of the Western myths that was covered on another page. Additionally there will be an image gallery 
+	  at the bottom displaying the SMT Designs of <b>Jack Frost (SMT5)</b>, <b>Jack O Frost (Megami Tensei 2)</b>, <b>King Frost (SMT2)</b>, 
+	  <b>Frost Ace (SMT Imagine)</b>, and <b>Pyro Jack (Soul Hackers)</b>, in that specific order. There will also be the option to play a 
+	  special version of the song "Triangulum" from SMT:DS2 in the footer of the page, so that you can enjoy it while browsing this page. 
+	  This song is one of my personal favorites so I definitely recomend giving it a listen, and I really hope you enjoy it.<br>
+	  <br>
+	  <h4>(NOTE: The website is not actually under renovations, this is just a clever little explaination for why this project uses resources 
+	  from the first project, while not actually linking to its pages.)</h4> <br>
+	  
+	  <h4>(NOTE: I do not own the images or music used in this school project.)</h4> <br>
+	  </p>
+	  <br>
+	 </section>
+	</div>
+	
+	<br>
+
+	<div class="table-responsive">
+		<table class="table table-bordered">
+			<tr>
+				<th class = "text-center" colspan ="5" > Some of the Myths Normally Discussed on Other Pages </th>
+			</tr>
+			
+			
+			<tr>
+				<th> Western Myth </th>
+				<th> Fionn Mac Cumhaill </th>
+				<th> Origin: Ireland </th>
+				<th> Year of Debut in Series: 2021 </th>
+				<td> 
+				  Here we have Fionn mac Cumhaill (can be pronounced "Finn MacCool"). He was warrior-hunter who 
+				  appeared in Irish Mythology. Among his many tales, it's said that he never died, but rather that he slumbers in
+				  a cave surrounded by his followers, the Fianna, and will awaken to defend Ireland in it's greatest hour of need. 
+				</td>
+			</tr>
+			
+			<tr>
+				<th> Eastern Myth </th>
+				<th> Minamoto no Yoshitsune </th>
+				<th> Origin: Japan </th>
+				<th> Year of Debut in Series: 1995 </th>
+				<td>
+				  Finally is the famous military commander of the Minamoto clan, Minamoto no Yoshitsune.
+				  Despite being an actual historic figure, he has his fair share of myths and legends about him. One such
+				  tale states that he was trained being known as a Kurama Tengu, while staying at the Kurama Temple. His
+				  design has a great resemblance to many historical depictions of him. He made his series debut back in 
+				  1995, making him tied with Shiisaa and the Western urban legend Mothman, for the second oldest SMT designs
+				  shown on this website's tables.
+				</td>
+			</tr>
+			
+			<tr>
+				<th> Eastern Myth </th>
+				<th> Shiisaa </th>
+				<th> Origin: Japan, Okinawa Prefecture </th>
+				<th> Year of Debut in Series: 1995 </th>
+				<td>
+				  Next up is Shiisaa, a Japanese protective spirit appearing in the myths of the Okinawa Prefecture. 
+				  Statues of them are often palced on rooftops or flanking the gates of homes. While similar to the Komainu 
+				  ("lion dogs"), the biggest difference is that they're smaller and more dog sized.
+				</td>
+			</tr>
+			
+		</table>
+	</div>
+	
+	<br>
+
+	<section>
+	<h2>Example of Designs Shown</h2>
+	<p>Click image to enlarge.</p>
+	<!-- Modal Button Trigger -->
+	<button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#myModal">
+		 <img src="./SMT_Mothman.png" class="float-left" alt="Shin Megami Tensei Mothman" width="200px" height="300px">
+	</button>
+
+	<!-- Modal -->
+	<div id="myModal" class="modal fade" role="dialog">
+		<div class="modal-dialog">
+
+			<!-- Modal Content -->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h4 class="modal-title">Shin Megami Tensei Mothman</h4>
+				</div>
+				<div class="modal-body">
+					<div class="text-center">
+					  <img src="./SMT_Mothman.png"  alt="Shin Megami Tensei Mothman" width="50%" height="50%">
+					</div>
+					<p>
+					  The Mothman, a well known urban legend here in the United States. A creature that reportedly sighted in 
+					  Point Pleasent, West Virginia, between the years of 1966 and 1967. Out of the designs shown on this website, 
+					  SMT Mothman has the biggest difference between it and it's depiction in myth, looking noticeably friendlier.
+					</p>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>
+	</section>
+
+	<br>
+	<br>
+	<br>
+
+	<section>
+	<h1>Image Carousel</h1>
+	<div id="myCarousel" class="carousel slide" data-ride="carousel">
+		<ol class="carousel-indicators">
+			<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+			<li data-target="#myCarousel" data-slide-to="1"></li>
+			<li data-target="#myCarousel" data-slide-to="2"></li>
+			<li data-target="#myCarousel" data-slide-to="3"></li>
+			<li data-target="#myCarousel" data-slide-to="4"></li>
+		</ol>
+
+	
+		<div class="carousel-inner">
+			<div class="item active">
+				<img class="img-responsive center-block" src="./SMTV_JackFrost.png" alt="SMT5 Jack Frost" width="500px" height="500px">
+		</div>
+
+		<div class="item">
+			<img class="img-responsive center-block" src="./SMT_Jack_o_frost.png" alt="MT2 Jack O Frost" width="700px" height="700px">
+		</div>
+
+		<div class="item">
+			<img class="img-responsive center-block" src="./SMT_KingFrost.png" alt="SMT2 King Frost" width="700px" height="700px">
+		</div>
+	
+		<div class="item">
+			<img class="img-responsive center-block" src="./SMT_FrostAce.png" alt="SMT Frost Ace" width="700px" height="700px">
+		</div>
+		
+		<div class="item">
+			<img class="img-responsive center-block" src="./SMT_PyroJack.png" alt="SMT Pyro Jack" width="600px" height="600px">
+		</div>
+	</div>
+
+	<a class="left carousel-control" href="#myCarousel" data-slide="prev">
+		<span class="glyphicon glyphicon-chevron-left"></span>
+		<span class="sr-only">Previous</span>
+	</a>
+	<a class="right carousel-control" href="#myCarousel" data-slide="next">
+		<span class="glyphicon glyphicon-chevron-right"></span>
+		<span class="sr-only">Next</span>
+	</a>
+	</div>
+	</section>
+
+</body>
+
+
+<footer>
+	 <div class="row">
+		 <div class="col-sm-6">Website &copy; 2022 Nicholas Cobian</div>
+		 
+		 <div class="col-sm-6">
+		 	  Now Playing: Triangulum - Dead of Night ver. - By Shoji Meguro and Toshiki Konishi <br>
+			  <audio src="./02 Triangulum - Dead of Night ver. -.mp3" controls>
+				  Triangulum - Dead of Night ver. - By Shoji Meguro and Toshiki Konishi
+			  </audio>
+			  <br> <br>
+		 </div>
+	 </div>
+</footer>
+</html>
