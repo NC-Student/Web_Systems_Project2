@@ -26,11 +26,11 @@
 					<a class="dropdown-toggle" data-toggle="dropdown" href="#">The Myths
 					<span class="caret"></span></a>
 					<ul class="dropdown-menu">
-						 <li><a href="#">Eastern Myths</a></li>
-						 <li><a href="#">Western Myths</a></li>
+						 <li><a href="https://nrc-web-systems-project.000webhostapp.com/Eastern_Myths.html">Eastern Myths</a></li>
+						 <li><a href="https://nrc-web-systems-project.000webhostapp.com/Western_Myths.html">Western Myths</a></li>
 					</ul>
 				</li>
-				<li><a href="#">See Alternate Design</a></li>
+				<li><a href="https://nrc-web-systems-project.000webhostapp.com/index2.html">See Alternate Design</a></li>
 			 </ul>
 			</div>
 		</div>
@@ -54,16 +54,16 @@
 	  based on Eastern myths and legends, and the other will show designs based on Western myths and legends. 
 	  <br>
 	  <br>
-	  However, the website is currently under renovations as it were, so the links to the other pages aren't currently working. 
-	  Nor are the other pages available. To account for this, this page will talk about a few myths from both the East and the West, 
-	  and show a design from one of the Western myths that was covered on another page. Additionally there will be an image gallery 
-	  at the bottom displaying the SMT Designs of <b>Jack Frost (SMT5)</b>, <b>Jack O Frost (Megami Tensei 2)</b>, <b>King Frost (SMT2)</b>, 
-	  <b>Frost Ace (SMT Imagine)</b>, and <b>Pyro Jack (Soul Hackers)</b>, in that specific order. There will also be the option to play a 
-	  special version of the song "Triangulum" from SMT:DS2 in the footer of the page, so that you can enjoy it while browsing this page. 
-	  This song is one of my personal favorites so I definitely recomend giving it a listen, and I really hope you enjoy it.<br>
+	  However, this page is currently under renovation as it were, so the other pages won't link back to it. You'll need to click the back arrow
+	  in your browser to return here. This page will talk about a few myths from both the East and the West, and show a design from one of 
+	  the Western myths that was covered on another page. Additionally there will be an image gallery at the bottom displaying the SMT 
+	  Designs of <b>Jack Frost (SMT5)</b>, <b>Jack O Frost (Megami Tensei 2)</b>, <b>King Frost (SMT2)</b>, <b>Frost Ace (SMT Imagine)</b>, 
+	  and <b>Pyro Jack (Soul Hackers)</b>, in that specific order. There will also be the option to play a special version of the song 
+	  "Triangulum" from SMT:DS2 in the footer of the page, so that you can enjoy it while browsing this page. This song is one of my 
+	  personal favorites so I definitely recomend giving it a listen, and I really hope you enjoy it.<br>
 	  <br>
-	  <h4>(NOTE: The website is not actually under renovations, this is just a clever little explaination for why this project uses resources 
-	  from the first project, while not actually linking to its pages.)</h4> <br>
+	  <h4><b>TO REITERATE:</b> Clicking on the links will take you to my other website, but you will not be able to return to this page from there 
+	  unless you click on the back arrow in your browser.</h4> <br>
 	  
 	  <h4>(NOTE: I do not own the images or music used in this school project.)</h4> <br>
 	  </p>
@@ -74,8 +74,7 @@
 	<br>
 	
 	<div class="container">
-	<div class="table-responsive">
-		<table class="table table-bordered">
+		<table class="table table-bordered table-hover table-responsive">
 			<tr>
 				<th class = "text-center" colspan ="5" > Some of the Myths Normally Discussed on Other Pages </th>
 			</tr>
@@ -121,7 +120,6 @@
 			</tr>
 			
 		</table>
-	</div>
 	</div>
 	
 	<br>
